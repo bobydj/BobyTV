@@ -1,0 +1,160 @@
+#ETXM3U
+
+#EXTINF:-1,Live Programe (BPL, IPL, ICC)
+http://100.100.100.100:8088/1101/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BPL Live
+http://172.17.50.112/live/fifa2022/index.m3u8
+#EXTINF:-1,BPL Live
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:-1,T Sports
+http://100.100.100.100:8088/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GTV
+http://100.100.100.100:8088/1103/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jio_Cricket_English
+https://watchtvs.live/live.php?c=Jio_Cricket_English&q=250&e=.m3u8
+#EXTINF:-1,Jio_Football_Bangali_HD
+https://watchtvs.live/live.php?c=Jio_Football_Bangali_HD&q=1200&e=.m3u8
+#EXTINF:-1,Jio_Football_Hindi_HD
+https://watchtvs.live/live.php?c=Jio_Football_Hindi_HD&q=1200&e=.m3u8
+#EXTINF:-1,Jio_Football_6
+https://watchtvs.live/live.php?c=Jio_Football_6&q=1200&e=.m3u8
+#EXTINF:-1,Star Sports 1HD
+http://100.100.100.100:8088/1104/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Sports 2HD
+http://100.100.100.100:8088/1107/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STar Sports Select 1HD
+http://100.100.100.100:8088/1109/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports 2HD
+http://100.100.100.100:8088/1110/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sports 18
+http://100.100.100.100:8088/1111/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bein Sports Xtra
+http://100.100.100.100:8088/1113/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DBC
+http://103.159.4.38:9191/1204/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Independent Televison
+http://103.159.4.38:9191/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NTV
+http://103.159.4.38:9191/1206/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bangla Vision
+http://103.159.4.38:9191/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Duronto TV
+http://103.159.4.38:9191/1803/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN Bangla
+http://103.159.4.38:9191/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ATN Bangla NEWS
+http://103.159.4.38:9191/1209/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Baisakhi TV
+http://103.159.4.38:9191/1210/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekattor TV
+http://103.159.4.38:9191/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ekushe TV
+http://103.159.4.38:9191/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jamuna TV
+http://103.159.4.38:9191/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1,News24
+http://103.159.4.38:9191/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zoom Music
+http://103.159.4.38:9191/1607/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN
+http://103.159.4.38:9191/1701/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC WORLD
+http://103.159.4.38:9191/1702/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Aljajera
+http://103.159.4.38:9191/1703/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cartoon Network
+http://103.159.4.38:9191/1801/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nick India
+http://103.159.4.38:9191/1802/tracks-v1a1/mono.m3u8
+#EXTINF:-1,National Geographic
+http://103.159.4.38:9191/1901/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Discovery
+http://103.159.4.38:9191/1902/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TLC
+http://103.159.4.38:9191/1903/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MNX
+http://103.159.4.38:9191/1505/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Mirror Now
+http://103.159.4.38:9191/1506/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony PIX HD
+http://103.159.4.38:9191/1507/tracks-v1a1/mono.m3u8
+#EXTINF:-1,S Bangla
+http://103.159.4.38:9191/1601/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Gaan Bangla
+http://103.159.4.38:9191/1602/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Masti Music
+http://103.159.4.38:9191/1603/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MTV
+http://103.159.4.38:9191/1604/tracks-v1a1/mono.m3u8
+#EXTINF:-1,9XM
+http://103.159.4.38:9191/1605/tracks-v1a1/mono.m3u8
+#EXTINF:-1,9X Jalwa
+http://103.159.4.38:9191/1606/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jalsa Movies
+http://103.159.4.38:9191/1304/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Cinema Bangla
+http://103.159.4.38:9191/1305/tracks-v1/mono.m3u8
+#EXTINF:-1,Sony Aaath
+http://103.159.4.38:9191/1306/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD
+http://103.159.4.38:9191/1401/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold
+http://103.159.4.38:9191/1402/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colurs HD Hindi
+http://103.159.4.38:9191/1403/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony HD
+http://103.159.4.38:9191/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony MAX HD
+http://103.159.4.38:9191/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony SAB
+http://103.159.4.38:9191/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1,& Pictures HD
+http://103.159.4.38:9191/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Cinema HD
+http://103.159.4.38:9191/1408/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bangla
+http://103.159.4.38:9191/1301/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Jalsha
+http://103.159.4.38:9191/1302/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colurs HD Bangla
+http://103.159.4.38:9191/1303/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CityD Islamic
+http://100.100.100.100:8088/1114/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Bull TV
+http://100.100.100.100:8088/1115/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Clours Cineplex
+https://watchtvs.live/live.php?c=Colors_Cineplex&q=250&e=.m3u8
+#EXTINF:-1,Jio_KIDS
+https://watchtvs.live/live.php?c=Jio_KIDS&q=1200&e=.m3u8
+#EXTINF:-1,MTV_Beats_SD
+https://watchtvs.live/live.php?c=MTV_Beats_SD&q=1200&e=.m3u8
+#EXTINF:-1,Calcutta_News
+https://watchtvs.live/live.php?c=Calcutta_News&q=1200&e=.m3u8
+#EXTINF:-1,VH1_HD
+https://watchtvs.live/live.php?c=VH1_HD&q=1200&e=.m3u8
+#EXTINF:-1,Colors_Infinity_SD
+https://watchtvs.live/live.php?c=Colors_Infinity_SD&q=1200&e=.m3u8
+#EXTINF:-1,Rishtey_Cineplex
+https://watchtvs.live/live.php?c=Rishtey_Cineplex&q=1200&e=.m3u8
+#EXTINF:-1,Colors_Cineplex_HD
+https://watchtvs.live/live.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+#EXTINF:-1,Colors_Cineplex_Bollywood
+https://watchtvs.live/live.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
+#EXTINF:-1,Bhojpuri_Junction
+https://watchtvs.live/live.php?c=Bhojpuri_Junction&q=1200&e=.m3u8
+#EXTINF:-1,Samay_Kolkata
+https://watchtvs.live/live.php?c=Samay_Kolkata&q=1200&e=.m3u8
+#EXTINF:-1,Jio_Specials_HD
+https://watchtvs.live/live.php?c=Jio_Specials_HD&q=1200&e=.m3u8
+#EXTINF:-1,Q_Game
+https://watchtvs.live/live.php?c=Q_GameX&q=1200&e=.m3u8
+#EXTINF:-1,India24x7
+https://watchtvs.live/live.php?c=India24x7&q=1200&e=.m3u8
+#EXTINF:-1,Jio_Prime_HD
+https://watchtvs.live/live.php?c=Jio_Prime_HD&q=1200&e=.m3u8
+#EXTINF:-1,PeaceTV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1,Madnitvbangla
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+#EXTINF:-1,Iqra TV Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
